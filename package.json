@@ -1,0 +1,24 @@
+{
+  "name": "node-mysql-blog-api",
+  "description": "A mysql interface for managing blog data",
+  "version": "0.0.0",
+  "author": {
+    "name": "Michael Len",
+    "email": "me@michaellen.com"
+  },
+  "keywords": [
+    "mysql",
+    "blog",
+    "engine",
+    "api",
+    "post"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lental/node-mysql-blog-api"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "mysql": "2.0.0-alpha8"
+  }
+}
