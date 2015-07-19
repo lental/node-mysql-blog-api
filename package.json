@@ -1,7 +1,7 @@
 {
   "name": "node-mysql-blog-api",
   "description": "A mysql interface for managing blog data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Michael Len",
     "email": "me@michaellen.com"
