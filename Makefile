@@ -1,0 +1,6 @@
+
+all:
+
+
+publish:
+	npm publish
